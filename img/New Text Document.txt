@@ -1,0 +1,39 @@
+   <div class="container mt-2">
+      <h3>MISSION AND UPCOMING PROJECTS</h3>
+      <div class="row">
+
+        <div class="col-sm bg-light text-center mx-2 my-1">
+
+          <img width=30px src="img/ht.png" alt="..." class="float-left">HEPATITIS
+        </div>
+
+        <div class="col-sm bg-light text-center mx-2  my-1">
+          <img width=20px src="img/home.JPG" alt="..." class="float-left">HOUSING SOCIETY 
+        </div>
+
+        <div class="col-sm bg-light text-center mx-2  my-1">
+          One of three columns
+        </div>
+
+
+      </div>
+    </div>
+
+    <br>
+
+    <div class="container">
+      
+      <div class="row">
+        <div class="col-sm bg-light text-center mx-2 ">
+          <img width=30px src="img/it.JPG" alt="..." class="float-left">IT LITERACY
+        </div>
+        <div class="col-sm bg-light text-center mx-2  ">
+          <img width=30px src="img/thar.JPG" alt="..." class="float-left"> Tharparkar 
+        </div>
+        <div class="col-sm bg-light text-center mx-2  ">
+          One of three columns
+        </div>
+
+
+      </div>
+    </div>
